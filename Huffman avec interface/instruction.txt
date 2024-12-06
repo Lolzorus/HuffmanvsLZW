@@ -1,0 +1,4 @@
+pour compiler:
+gcc `pkg-config --cflags gtk+-3.0` -o huffman_gui huffman.c main.c `pkg-config --libs gtk+-3.0`
+
+./huffman_gui

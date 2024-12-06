@@ -1,0 +1,4 @@
+pour compiler:
+gcc lzw.c par.c -o project 
+
+./projet
